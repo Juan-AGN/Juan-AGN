@@ -1,6 +1,6 @@
 # Hi, I'm Juan 👋
 
-Full Stack Developer | 42 Telefónica Student  
+**Full Stack Developer | 42 Telefónica Student**  
 Backend focused · Problem solving · Systems thinking
 
 ---
@@ -11,28 +11,28 @@ I’m a Full Stack developer currently studying at 42 Telefónica Málaga.
 
 I enjoy building software that actually works, breaking things down to understand how they function, and solving problems step by step. I’m especially interested in backend development, low-level concepts, and understanding how systems behave under the hood.
 
-I tend to be persistent when coding—if something doesn’t work, I keep digging until I fully understand the issue and fix it properly.
+I tend to be persistent when coding — if something doesn’t work, I keep digging until I fully understand the issue and fix it properly.
 
-Currently, I’m also learning Java to strengthen my backend and object-oriented programming skills.
+Currently, I’m also learning **Java** to strengthen my backend and object-oriented programming skills.
 
 ---
 
 ## Tech Stack
 
-**Languages:**  
-C, C++, JavaScript, TypeScript, Java (learning)
+**Languages**  
+`C` · `C++` · `JavaScript` · `TypeScript` · `Java (learning)`
 
-**Backend:**  
-Node.js, Express, Prisma
+**Backend**  
+`Node.js` · `Express` · `Prisma`
 
-**Frontend:**  
-React, HTML, CSS
+**Frontend**  
+`React` · `HTML` · `CSS`
 
-**Databases:**  
-PostgreSQL, MongoDB, SQL
+**Databases**  
+`PostgreSQL` · `MongoDB` · `SQL`
 
-**Tools & Systems:**  
-Git, GitHub, Docker, Linux, macOS, Windows
+**Tools & Systems**  
+`Git` · `GitHub` · `Docker` · `Linux` · `macOS` · `Windows`
 
 ---
 
@@ -43,7 +43,7 @@ Multiplayer web application built in a team (42 project).
 
 - Backend development using Node.js, TypeScript, Express, PostgreSQL  
 - API design and architecture  
-- Database integration and backend structure
+- Database integration and backend structure  
 
 ---
 
@@ -52,7 +52,7 @@ Multiplayer web application built in a team (42 project).
 
 - Implemented rendering engine using raycasting  
 - Focus on performance and low-level optimization  
-- Deep understanding of how raycasting works internally
+- Deep understanding of how raycasting works internally  
 
 ---
 
@@ -61,7 +61,7 @@ Docker-based infrastructure project.
 
 - Built services using Docker Compose  
 - Nginx, WordPress, MariaDB setup  
-- System architecture and container orchestration
+- System architecture and container orchestration  
 
 ---
 
@@ -69,8 +69,8 @@ Docker-based infrastructure project.
 Recreation of the 2048 game in vanilla JavaScript.
 
 - Built without frameworks or libraries  
+- Game logic and DOM manipulation  
 - Deployed on Vercel  
-- Focus on game logic and DOM manipulation
 
 ---
 
@@ -80,16 +80,16 @@ Authentication system using JWT.
 - Access & refresh token system  
 - React + TypeScript frontend  
 - Prisma + PostgreSQL backend  
-- Monorepo architecture
+- Monorepo architecture  
 
 ---
 
 ## Current Focus
 
-- Java (object-oriented programming & backend development)
+- Java (OOP & backend development)
 - Backend development with Node.js and TypeScript
 - Frontend development with React
-- SQL
+- SQL and system fundamentals
 
 ---
 
