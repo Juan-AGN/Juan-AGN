@@ -28,6 +28,8 @@ Currently learning Java to strengthen my backend and object-oriented programming
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-AGN&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ---
 
 ## Current Focus
