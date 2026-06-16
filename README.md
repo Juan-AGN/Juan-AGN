@@ -1,6 +1,6 @@
 # Hi, I'm Juan 👋
 
-**Full Stack Developer | 42 Telefónica Student**  
+Full Stack Developer | 42 Telefónica Student  
 Backend focused · Problem solving · Systems thinking
 
 ---
@@ -9,96 +9,41 @@ Backend focused · Problem solving · Systems thinking
 
 I’m a Full Stack developer currently studying at 42 Telefónica Málaga.
 
-I enjoy building software that actually works, breaking things down to understand how they function, and solving problems step by step. I’m especially interested in backend development, low-level concepts, and understanding how systems behave under the hood.
+I enjoy building software that works and understanding how it works under the hood. I like breaking problems down, debugging, and improving solutions step by step.
 
-I tend to be persistent when coding — if something doesn’t work, I keep digging until I fully understand the issue and fix it properly.
+I’m especially interested in backend development, low-level concepts, and system design.
 
-Currently, I’m also learning **Java** to strengthen my backend and object-oriented programming skills.
+Currently learning Java to strengthen my backend and object-oriented programming skills.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-`C` · `C++` · `JavaScript` · `TypeScript` · `Java (learning)`
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-**Backend**  
-`Node.js` · `Express` · `Prisma`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Frontend**  
-`React` · `HTML` · `CSS`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**Databases**  
-`PostgreSQL` · `MongoDB` · `SQL`
-
-**Tools & Systems**  
-`Git` · `GitHub` · `Docker` · `Linux` · `macOS` · `Windows`
-
----
-
-## Projects
-
-### ft_transcendence
-Multiplayer web application built in a team (42 project).
-
-- Backend development using Node.js, TypeScript, Express, PostgreSQL  
-- API design and architecture  
-- Database integration and backend structure  
-
----
-
-### cub3D
-3D raycasting game engine written in C.
-
-- Implemented rendering engine using raycasting  
-- Focus on performance and low-level optimization  
-- Deep understanding of how raycasting works internally  
-
----
-
-### Inception
-Docker-based infrastructure project.
-
-- Built services using Docker Compose  
-- Nginx, WordPress, MariaDB setup  
-- System architecture and container orchestration  
-
----
-
-### 2048 Game
-Recreation of the 2048 game in vanilla JavaScript.
-
-- Built without frameworks or libraries  
-- Game logic and DOM manipulation  
-- Deployed on Vercel  
-
----
-
-### OAuth Service (personal project)
-Authentication system using JWT.
-
-- Access & refresh token system  
-- React + TypeScript frontend  
-- Prisma + PostgreSQL backend  
-- Monorepo architecture  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## Current Focus
 
 - Java (OOP & backend development)
-- Backend development with Node.js and TypeScript
-- Frontend development with React
-- SQL and system fundamentals
-
----
-
-## What I enjoy
-
-- Solving complex problems step by step  
-- Understanding how systems work internally  
-- Debugging and optimizing code  
-- Working on backend and architecture problems  
+- Node.js + TypeScript backend systems
+- System design fundamentals
+- SQL and software architecture
 
 ---
 
@@ -106,4 +51,4 @@ Authentication system using JWT.
 
 - GitHub: github.com/Juan-AGN  
 - LinkedIn: Juan Antonio García Narváez  
-- Email: juanpinpon51@gmail.com
+- Email: juanpinpon51@gmail.com  
