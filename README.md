@@ -45,4 +45,4 @@ Currently learning Java to strengthen my backend and object-oriented programming
 
 - GitHub: github.com/Juan-AGN  
 - LinkedIn: Juan Antonio García Narváez  
-- Email: juanpinpon51@gmail.com  
+- Email: juangarnar4@gmail.com  
